@@ -13,7 +13,7 @@
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
-I'm Adi Chondro, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and machine learning. I'm also a self procliamed internet surfer
+I'm Adi Chondro, I'm a software engineer 👨‍💻 who is passionate about web & mobile technologies and machine learning. I'm also a self procliamed internet surfer
 
 **Talking about Personal Stuffs:** 
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
@@ -27,8 +27,12 @@ I'm Adi Chondro, I'm a software engineer 👨‍💻 who is passionate about mob
 ***
 
  <br>
-[linkedin]: https://www.linkedin.com/in/adichondro/
 
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
+
+[linkedin]: https://www.linkedin.com/in/adichondro/
 <!--
 **adichondro/adichondro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
