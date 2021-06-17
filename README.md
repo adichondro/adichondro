@@ -2,7 +2,9 @@
 <p>
   <h3 align="center"><b>"To Infinity and Beyond!"</b></h3>
 </p>
-<img align="center" src="https://media.giphy.com/media/SvRxmoLTkkDkrt5G8N/giphy.gif" width="40" height="40" />
+<div align="center>
+<img src="https://media.giphy.com/media/SvRxmoLTkkDkrt5G8N/giphy.gif" width="40" height="40" />
+</div>
 
 <p align="center">
 <br>
