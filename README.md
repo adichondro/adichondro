@@ -19,8 +19,8 @@
 I'm Adi Chondro, I'm a software engineer 👨‍💻 who is passionate about web, mobile and machine learning technologies. I'm also a self proclaimed internet surfer.
 
 **Talking about Personal Stuffs:** 
-- 👨🏽‍💻  I’m currently working on something cool 😎.
-- 🌱  I’m currently learning About Mobile Development & Machine Learning. 
+- 👨🏽‍💻 I’m currently working on something cool 😎.
+- 🌱 I’m currently learning About Mobile Development & Machine Learning. 
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
