@@ -16,7 +16,7 @@
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
-I'm Adi Chondro, I'm a software engineer 👨‍💻 who is passionate about web & mobile technologies and machine learning. I'm also a self procliamed internet surfer
+I'm Adi Chondro, I'm a software engineer 👨‍💻 who is passionate about web, mobile and machine learning technologies. I'm also a self procliamed internet surfer
 
 **Talking about Personal Stuffs:** 
 - 👨🏽‍💻  I’m currently working on something cool 😎.
