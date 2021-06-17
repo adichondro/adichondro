@@ -1,6 +1,6 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://adichondro.github.io/">CHONDRO</a></h2>
 <p>
-  <h4 align="center"><b>"To infinity and beyond!"</b></h4>
+  <h3 align="center"><b>"To Infinity and Beyond!"</b></h3>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 I'm Adi Chondro, I'm a software engineer 👨‍💻 who is passionate about web & mobile technologies and machine learning. I'm also a self procliamed internet surfer
 
 **Talking about Personal Stuffs:** 
-- 👨🏽‍💻  I’m currently working on something cool :cool:.
+- 👨🏽‍💻  I’m currently working on something cool 😎.
 - 🌱  I’m currently learning About Mobile Development & Machine Learning. 
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
