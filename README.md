@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://adichondro.github.io/">CHONDRO</a></h2>
+<h2 align="center">Hey, I'm <a href="https://adichondro.github.io/">CHONDRO</a></h2>
 <p>
   <h3 align="center"><b>"To Infinity and Beyond!"</b></h3>
 </p>
